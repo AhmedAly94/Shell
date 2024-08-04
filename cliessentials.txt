@@ -1,0 +1,28 @@
+nano test.sh: create script file
+cd : change directory
+pwd : show the directory
+ls: list
+ls-l: give moe info about the files
+cp: copy
+mv: move
+rm: remove
+echo: print
+cat: concatinate means display the file content
+less: concatinate
+grep
+mkdir: make directory/folders
+touch: make files 
+chmod: make permissions
+man + help
+cat cliessentials.txt: give info about what´s inside the text
+clear/cltrl l
+
+ipconfig: To view basic information about the IP configuration of all network interfaces, open Command Prompt and type:
+
+
+1. ctrl o :save 
+2. enter
+3. ctrl exit
+
+ctrl k:cut/copy
+ctrl U: paste
